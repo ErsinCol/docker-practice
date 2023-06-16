@@ -1,1 +1,1 @@
-## Applications I developed during my Docker training.
+## Applications I developed during my Docker practice.
